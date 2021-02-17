@@ -1,0 +1,35 @@
+body{
+    background-color: #FFBEBE;
+}
+.emotion_names{
+    color: #FF7575;
+}
+#webcam{
+    border: dashed 5px #FF7575;
+    height: 250px;
+    width:250px;
+}
+#capture_img, #observe_img{
+    background-color:#FF7575;
+    border: solid 1px  #000000;
+    border-radius: 12px;
+}
+#title{
+    background-color: #FF7575;
+    font-size: large;
+    width: 70%;
+    color: black;
+    border-color:black;
+    border-radius: 20px;
+}
+p{
+    color:#FF7575;
+}
+#valentine{
+    font-family: 'Niconne', cursive;
+    font-size: 100px;
+    color: #FF7575;
+}
+img{
+    height: 70px;
+}
